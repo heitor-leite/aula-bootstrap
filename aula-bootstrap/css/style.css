@@ -1,0 +1,29 @@
+/*Bootstrap*/
+
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+    background-color: #34495E;
+}
+
+.quem-somos{
+    background-color: #CCD1D1;
+    color: #1C2833;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #C4C9C9;
+}
+
+.bg-footer{
+    background-color: #34495E;
+    color: white;
+    font-size: 10px;
+}
