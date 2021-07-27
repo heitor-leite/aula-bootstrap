@@ -1,2 +1,4 @@
 # aula-bootstrap
-Utilizando bootstrap.
+
+Projeto realizado utilizando Bootstrap, HTML e CSS.
+
